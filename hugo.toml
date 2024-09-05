@@ -1,0 +1,5 @@
+baseURL = 'https://software-engineering.examcenters.net/'
+languageCode = 'en-us'
+title = 'software engineering'
+publishdir = "linhph96.github.io"
+
